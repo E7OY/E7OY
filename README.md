@@ -1,3 +1,4 @@
+<code>
 <h1 align="center">Hi 👋, I'm Eloy Garcia</h1>
 
 - 💻 <em>Junior Web Developer</em>
@@ -30,3 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=e7oy&show_icons=true&locale=en" alt="e7oy" /></p>
 
+</code>
