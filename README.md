@@ -1,4 +1,4 @@
-<code>
+
 <h1 align="center">Hi 👋, I'm Eloy Garcia</h1>
 
 - 💻 <em>Junior Web Developer</em>
@@ -8,7 +8,7 @@
 
 [![Linkedin:  Eloy Garcia Martinez ](https://img.shields.io/badge/-EloyGarciaMartinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eloy-garcia-martinez-189525208/)](https://www.linkedin.com/in/eloy-garcia-martinez-189525208/)
 
-<h2 align="center">Stack</h2></code>
+<h2 align="center">Stack</h2>
 <p align="left"> 
   <h3 align="left">Front-End:</h3>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
