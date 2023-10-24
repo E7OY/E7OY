@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eloy Garcia</h1>
 
+- 💻 Junior Web Developer
+- 👨‍💻 Currently a student of DAW (Web Application Development)
+- 📍 From Galicia, Spain
 - 📫 How to reach me **e.garciasiu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
