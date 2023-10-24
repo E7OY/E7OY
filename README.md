@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Eloy Garcia</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=e7oy" alt="e7oy" /></a> </p>
 
 - 📫 How to reach me **e.garciasiu@gmail.com**
 
