@@ -5,7 +5,7 @@
 - 📍 From <em>Galicia, Spain</em>
 - 📫 How to reach me **e.garciasiu@gmail.com**
 
-[![Linkedin:  Eloy Garcia Martinez ](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eloy-garcia-martinez-189525208/)](https://www.linkedin.com/in/eloy-garcia-martinez-189525208/)
+[![Linkedin:  Eloy Garcia Martinez ](https://img.shields.io/badge/-EloyGarciaMartinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eloy-garcia-martinez-189525208/)](https://www.linkedin.com/in/eloy-garcia-martinez-189525208/)
 
 <h2 align="center">Stack</h2>
 <p align="left"> 
