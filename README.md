@@ -25,8 +25,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 
-  <a href="https://www.google.com/search?q=intellij+logo&tbm=isch&ved=2ahUKEwjRoee7l4-CAxXMuycCHZgvD-oQ2-cCegQIABAA&oq=intellij+logo&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgQIABAeMgYIABAFEB4yBggAEAUQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeOgcIABCKBRBDOgcIABAYEIAEOgQIIxAnOgQIABADOggIABCABBCxAzoLCAAQgAQQsQMQgwE6CAgAELEDEIMBUNsSWNcnYJopaABwAHgAgAG6AogBkQySAQc5LjQuMC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=YPs3ZdHxMMz3nsEPmN-80A4&bih=947&biw=1920&client=firefox-b-d#imgrc=a3foPxSpL_u5GM" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=intellij+logo&tbm=isch&ved=2ahUKEwjRoee7l4-CAxXMuycCHZgvD-oQ2-cCegQIABAA&oq=intellij+logo&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgQIABAeMgYIABAFEB4yBggAEAUQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeOgcIABCKBRBDOgcIABAYEIAEOgQIIxAnOgQIABADOggIABCABBCxAzoLCAAQgAQQsQMQgwE6CAgAELEDEIMBUNsSWNcnYJopaABwAHgAgAG6AogBkQySAQc5LjQuMC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=YPs3ZdHxMMz3nsEPmN-80A4&bih=947&biw=1920&client=firefox-b-d#imgrc=a3foPxSpL_u5GM" alt="linux" width="40" height="40"/> </a>
-
+  <a href="https://en.m.wikipedia.org/wiki/File:IntelliJ_IDEA_Icon.svg" target="_blank" rel="noreferrer"> <img src="https://en.m.wikipedia.org/wiki/File:IntelliJ_IDEA_Icon.svg" alt="linux" width="40" height="40"/> </a>
 
 
   <h3 align="left">Design:</h3>
