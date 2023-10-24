@@ -26,7 +26,7 @@
 <a href="#"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" width="40" height="40"/></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSC" width="40" height="40"/></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/200px-GitHub_Invertocat_Logo.svg.png" alt="github" width="40" height="40"/></a>
-<a href="#"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="jira" width="40" height="40"/></a>
+<a href="#"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="jira" width="40" height="40" title="Jira"/></a>
 
 
 
