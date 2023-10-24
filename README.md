@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eloy Garcia</h1>
 
-- 💻 Junior Web Developer
-- 👨‍💻 Currently a student of DAW (Web Application Development) at <a href="https://fp.liceolapaz.com/">Liceo La Paz</a>
-- 📍 From Galicia, Spain
+- 💻 <em>Junior Web Developer</em>
+- 👨‍💻 Currently a <em>student of DAW<em> (Web Application Development) at <a href="https://fp.liceolapaz.com/">Liceo La Paz</a>
+- 📍 From <em>Galicia, Spain</em>
 - 📫 How to reach me **e.garciasiu@gmail.com**
 
 
