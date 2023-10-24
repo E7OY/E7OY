@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eloy Garcia</h1>
 
 - 💻 <em>Junior Web Developer</em>
-- 👨‍💻 Currently a <em>student of DAW<em> (Web Application Development) at <a href="https://fp.liceolapaz.com/">Liceo La Paz</a>
+- 👨‍💻 Currently a <em>student of DAW</em> (Web Application Development) at <a href="https://fp.liceolapaz.com/">Liceo La Paz</a>
 - 📍 From <em>Galicia, Spain</em>
 - 📫 How to reach me **e.garciasiu@gmail.com**
 
+[![Linkedin:  Eloy Garcia Martinez ](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eloy-garcia-martinez-189525208/)](https://www.linkedin.com/in/eloy-garcia-martinez-189525208/)
 
 <h2 align="center">Stack</h2>
 <p align="left"> 
