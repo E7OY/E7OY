@@ -8,6 +8,8 @@
 
 [![Linkedin:  Eloy Garcia Martinez ](https://img.shields.io/badge/-EloyGarciaMartinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eloy-garcia-martinez-189525208/)](https://www.linkedin.com/in/eloy-garcia-martinez-189525208/)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=E7OY&label=Profile%20views&color=0e75b6&style=flat" alt="E7OY" /> </p>
+
 <h2 align="center">Stack</h2>
 <p align="left"> 
   <h3 align="left">Front-End:</h3>
