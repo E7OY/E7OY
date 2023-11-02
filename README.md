@@ -16,11 +16,24 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://blog.artegrafico.net/wp-content/uploads/2019/02/jQuery-logo.png" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://blog.artegrafico.net/wp-content/uploads/2019/02/jQuery-logo.png" target="_blank" rel="noreferrer"> <img src="https://blog.artegrafico.net/wp-content/uploads/2019/02/jQuery-logo.png" alt="javascript" width="40" height="40"/> </a> 
 
-    <h3 align="left">Back-End:</h3>
+  <h3 align="left">Back-End:</h3>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+     
+  <h3 align="left">CMS:</h3>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" alt="java" width="40" height="40"/> </a> 
+  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/1200px-WooCommerce_logo.svg.png" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/1200px-WooCommerce_logo.svg.png" alt="java" width="40" height="40"/> </a> 
+    <a href="https://www.joopbox.com/wp-content/uploads/2015/12/Joomla-logo.png" target="_blank" rel="noreferrer"> <img src="https://www.joopbox.com/wp-content/uploads/2015/12/Joomla-logo.png" alt="java" width="40" height="40"/> </a> 
+        <a href="https://upload.wikimedia.org/wikipedia/commons/b/b7/Moodle-1-740x380.png" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Moodle-1-740x380.png" alt="java" width="40" height="40"/> </a> 
+            <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Prestashop.svg/2389px-Prestashop.svg.png" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Prestashop.svg/2389px-Prestashop.svg.png" alt="java" width="40" height="40"/> </a> 
+
+
+
+
+
+   
    <h3 align="left">Tools:</h3>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
