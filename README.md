@@ -27,7 +27,7 @@
   <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/1200px-WooCommerce_logo.svg.png" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/1200px-WooCommerce_logo.svg.png" alt="java" width="50" height="30"/> </a> 
     <a href="https://www.joopbox.com/wp-content/uploads/2015/12/Joomla-logo.png" target="_blank" rel="noreferrer"> <img src="https://www.joopbox.com/wp-content/uploads/2015/12/Joomla-logo.png" alt="java" width="60" height="40"/> </a> 
         <a href="https://upload.wikimedia.org/wikipedia/commons/b/b7/Moodle-1-740x380.png" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Moodle-1-740x380.png" alt="java" width="60" height="40"/> </a> 
-            <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Prestashop.svg/2389px-Prestashop.svg.png" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Prestashop.svg/2389px-Prestashop.svg.png" alt="java" width="60" height="40"/> </a> 
+            <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Prestashop.svg/2389px-Prestashop.svg.png" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Prestashop.svg/2389px-Prestashop.svg.png" alt="java" width="50" height="40"/> </a> 
 
 
 
