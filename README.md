@@ -60,3 +60,5 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=e7oy&show_icons=true&theme=radical&locale=en&layout=compact" alt="e7oy"  />
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/E7OY/PortfolioEjemplo1)
+
