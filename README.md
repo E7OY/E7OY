@@ -60,4 +60,3 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=e7oy&show_icons=true&theme=radical&locale=en&layout=compact" alt="e7oy"  />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=E7OY&repo=github-readme-stats)](https://github.com/E7OY/PortfolioEjemplo1)
