@@ -59,4 +59,4 @@
 
 ![e7oy GitHub stats](https://github-readme-stats.vercel.app/api?username=E7OY&show_icons=true&theme=radical)
 
-![e7oy Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E7OY&langs_count=8_icons=true&theme=radical)
+![e7oy Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E7OY&langs_icons=true&theme=radical_count=8)
