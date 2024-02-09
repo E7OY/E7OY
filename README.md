@@ -59,4 +59,3 @@
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=e7oy&show_icons=true&theme=radical&locale=en&layout=compact" alt="e7oy"  />
 
-[![Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Stack&lineCount=1&theme=catppuccin_macchiato&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%238bd5ca)
