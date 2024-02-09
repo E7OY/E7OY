@@ -53,13 +53,10 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <br /><br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=e7oy&show_icons=true&locale=en&layout=compact" alt="e7oy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=e7oy&show_icons=true&locale=en" alt="e7oy" /></p>
 
 ![e7oy GitHub stats](https://github-readme-stats.vercel.app/api?username=E7OY&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=radical)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=e7oy&show_icons=true&theme=radical&locale=en&layout=compact" alt="e7oy"  />
 
