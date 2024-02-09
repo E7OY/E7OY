@@ -54,8 +54,9 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <br /><br />
 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=e7oy&show_icons=true&theme=radical&locale=en&layout=compact" alt="e7oy"  />
+
 <img src="https://github-readme-stats.vercel.app/api?username=E7OY&show_icons=true&theme=radical" />
 
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=e7oy&show_icons=true&theme=radical&locale=en&layout=compact" alt="e7oy"  />
 
