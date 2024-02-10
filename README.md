@@ -1,5 +1,6 @@
 
 
+# Hi 👋, I'm Eloy Garcia
 # 💫 About Me:
 💻 Junior Web Developer<br>👨‍💻 Currently a student of DAW (Web Application Development) at Liceo La Paz<br>📍 From Galicia, Spain<br>📫 How to reach me e.garciasiu@gmail.com<br>
 
