@@ -57,12 +57,3 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=E7OY&show_icons=true&theme=radical" />&nbsp;&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=e7oy&show_icons=true&theme=radical&locale=en&layout=compact" alt="e7oy"  />
 </div>
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
-
