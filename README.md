@@ -28,6 +28,8 @@
 
 ![VSC](https://img.shields.io/badge/visualstudiocode-%231572B6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![ECLIPSE](https://img.shields.io/badge/eclipse-%23323330.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+![cPanel](https://img.shields.io/badge/cpanel-%23E34F26.svg?style=for-the-badge&logo=cpanel&logoColor=white)
+![WHM](https://img.shields.io/badge/whm-%23E34F26.svg?style=for-the-badge&logo=whm&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
