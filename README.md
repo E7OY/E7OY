@@ -16,7 +16,7 @@
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) 
-![Prestashop](https://img.shields.io/badge/prestashop-%235091CD.svg?style=for-the-badge&logo=prestashop&logoColor=white)
+![Prestashop](https://img.shields.io/badge/prestashop-%238511FA.svg?style=for-the-badge&logo=prestashop&logoColor=white)
 ![Moodle](https://img.shields.io/badge/moodle-%23E34F26.svg?style=for-the-badge&logo=moodle&logoColor=white)
 <br/>
 
