@@ -15,11 +15,11 @@
 <br/>
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+![WOOCOMMERCE](https://img.shields.io/badge/WOOCOMMERCE-%23F21E7E.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) 
 ![Prestashop](https://img.shields.io/badge/prestashop-%238511FA.svg?style=for-the-badge&logo=prestashop&logoColor=white)
 ![Moodle](https://img.shields.io/badge/moodle-%23E34F26.svg?style=for-the-badge&logo=moodle&logoColor=white)
 <br/>
-![WordPress](https://img.shields.io/badge/WOOCOMMERCE-%23F21E7E.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F21E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) 
