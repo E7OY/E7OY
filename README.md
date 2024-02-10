@@ -14,6 +14,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 <br/>
 
+![GIT](https://img.shields.io/badge/GIT-%23E34F26.svg?style=for-the-badge&logo=GIT&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GITHUB-%23323330.svg?style=for-the-badge&logo=github&logoColor=white)
+
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) 
 ![Prestashop](https://img.shields.io/badge/prestashop-%238511FA.svg?style=for-the-badge&logo=prestashop&logoColor=white)
@@ -27,6 +30,7 @@
 <br/>
 
 ![VSC](https://img.shields.io/badge/visualstudiocode-%231572B6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![INTELLIJ](https://camo.githubusercontent.com/cfa2382735c9a17776093b6271418eacc71476d80aef5d98dc9862109c4c3ab3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c696a253230496465612d3030303f6c6f676f3d696e74656c6c696a2d69646561267374796c653d666f722d7468652d6261646765)
 ![ECLIPSE](https://img.shields.io/badge/eclipse-%23323330.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cpanel-%23E34F26.svg?style=for-the-badge&logo=cpanel&logoColor=white)
 ![WHM](https://img.shields.io/badge/whm-%23E34F26.svg?style=for-the-badge&logo=whm&logoColor=white)
