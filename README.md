@@ -4,6 +4,8 @@
 # 💫 About Me:
 💻 Junior Web Developer<br>👨‍💻 Currently a student of DAW (Web Application Development) at Liceo La Paz<br>📍 From Galicia, Spain<br>📫 How to reach me: e.garciasiu@gmail.com<br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Personal+Website: )](https://git.io/typing-svg)(https://e7oy.github.io/)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eloy-garcia-martinez-189525208/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eloygarciaaa_/) 
