@@ -53,3 +53,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=E7OY&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg
