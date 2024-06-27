@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=E7OY&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=E7OY&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # Hi 👋, I'm Eloy Garcia
