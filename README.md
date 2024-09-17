@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=E7OY&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=E7OY&icon=0&color=2)](https://visitcount.itsvg.in)
 
 # Hi 👋, I'm Eloy Garcia
 # 💫 About Me:
