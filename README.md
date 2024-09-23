@@ -33,7 +33,7 @@
 <br/>
 
 ![VSC](https://img.shields.io/badge/visualstudiocode-%231572B6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![INTELLIJ](https://camo.githubusercontent.com/cfa2382735c9a17776093b6271418eacc71476d80aef5d98dc9862109c4c3ab3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c696a253230496465612d3030303f6c6f676f3d696e74656c6c696a2d69646561267374796c653d666f722d7468652d6261646765)
+![INTELLIJ](https://img.shields.io/badge/intellij-%000.svg?style=for-the-badge&logo=intellij&logoColor=white)
 ![ECLIPSE](https://img.shields.io/badge/eclipse-%23323330.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-%23E34F26.svg?style=for-the-badge&logo=GIT&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-%23323330.svg?style=for-the-badge&logo=github&logoColor=white)
