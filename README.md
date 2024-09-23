@@ -37,6 +37,7 @@
 ![ECLIPSE](https://img.shields.io/badge/eclipse-%23323330.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-%23E34F26.svg?style=for-the-badge&logo=GIT&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-%23323330.svg?style=for-the-badge&logo=github&logoColor=white)
+![GITLAB](https://img.shields.io/badge/GITLAB-e34124.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cpanel-%23E34F26.svg?style=for-the-badge&logo=cpanel&logoColor=white)
 ![WHM](https://img.shields.io/badge/whm-%23E34F26.svg?style=for-the-badge&logo=whm&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
