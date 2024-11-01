@@ -59,5 +59,3 @@
 
 
 ![mario-working](https://github.com/user-attachments/assets/4afc1582-db97-42b7-b4e7-2545915dba3f)
-
-![](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
