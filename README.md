@@ -4,6 +4,9 @@
 # 💫 About Me:
 💻 Junior Web Developer<br>👨‍💻 Currently a student of DAW (Web Application Development) at Liceo La Paz<br>📍 From Galicia, Spain<br>📫 How to reach me: e.garciasiu@gmail.com<br>
 
+![Slide 16_9 - 1](https://github.com/user-attachments/assets/9dc9f22d-920d-46d6-8c93-6d7e5868b61a)
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&random=false&width=435&lines=Personal+Website%3A+https%3A%2F%2Fe7oy.github.io)](https://e7oy.github.io)
 
 ## 🌐 Socials:
