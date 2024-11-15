@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=E7OY&icon=0&color=5)](https://visitcount.itsvg.in)
 
-# Hola 👋, Soy Eloy Garcia
+# Hola 👋, Soy Eloy García
 # 💫 Sobre mí:
 💻 Junior Web Developer<br>👨‍💻 Actualmente estudiante de DAW (Desarrollo de Aplicaciones Web) en Liceo La Paz<br>📍 De Galicia, España<br>📫 Ponte en contacto conmigo en: e.garciasiu@gmail.com<br>
 
