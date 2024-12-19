@@ -1,4 +1,4 @@
-[!Badge LinkedIn](https://github.com/user-attachments/assets/51173fee-696f-40cc-bc4e-492c9f68e898)
+![Slide 16_9 - 1(3)](https://github.com/user-attachments/assets/1da58e25-692f-429d-b0a8-179a9a9e92fd)
 
 # Hola 👋, Soy Eloy García
 # 💫 Sobre mí:
