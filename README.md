@@ -1,4 +1,4 @@
-(![Slide 16_9 - 1(3)](https://github.com/user-attachments/assets/51173fee-696f-40cc-bc4e-492c9f68e898)
+[![Slide 16_9 - 1(3)](https://github.com/user-attachments/assets/51173fee-696f-40cc-bc4e-492c9f68e898)
 
 https://visitcount.itsvg.in/api?id=E7OY&icon=0&color=5)](https://visitcount.itsvg.in)
 
