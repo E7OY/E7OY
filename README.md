@@ -4,7 +4,7 @@
 # 💫 Sobre mí:
 💻 Junior Web Developer<br>👨‍💻 Estudiante de DAW (Desarrollo de Aplicaciones Web) en Liceo La Paz<br>📍 De Galicia, España<br>📫 Ponte en contacto conmigo en: e.garciasiu@gmail.com<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&random=false&width=435&lines=Portfolio:%3A+https%3A%2F%2Fe7oy.github.io)](https://e7oy.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&random=false&width=435&lines=Portfolio%3A+https%3A%2F%2Fe7oy.github.io)](https://e7oy.github.io)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eloy-garcia-martinez-189525208/) 
