@@ -1,3 +1,5 @@
+![Slide 16_9 - 1(2)](https://github.com/user-attachments/assets/c9595ec1-c19a-47c9-8e7f-630b7fa06c57)
+
 [![](https://visitcount.itsvg.in/api?id=E7OY&icon=0&color=5)](https://visitcount.itsvg.in)
 
 # Hola 👋, Soy Eloy García
