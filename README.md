@@ -17,6 +17,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%77bc1f.svg?style=for-the-badge&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/C%20sharp-8C75E6.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-878DB8.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![SYMFONY](https://img.shields.io/badge/symfony-000000.svg?style=for-the-badge&logo=SYMFONY&logoColor=white) 
