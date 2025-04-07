@@ -1,6 +1,7 @@
-![Slide 16_9 - 1(3)](https://github.com/user-attachments/assets/1da58e25-692f-429d-b0a8-179a9a9e92fd)
+![Slide 16_9 - 1](https://github.com/user-attachments/assets/5b5c9528-d1cb-4077-931d-47f6ab9b2994)
 
 # Hola 👋, Soy Eloy García
+
 # 💫 Sobre mí:
 💻 Full-stack Developer<br>👨‍💻 Estudiante de DAW (Desarrollo de Aplicaciones Web) en Liceo La Paz<br>📍 De Galicia, España<br>📫 Ponte en contacto conmigo en: e.garciasiu@gmail.com<br>
 🎯 Skills: Habilidades en <b>Git</b> para control de versiones. Dominio de <b>React, HTML5, CSS3 y Tailwind</b> para frontend. Experiencia en <b>SQL, Spring, PHP y Java</b> para el desarrollo backend. Familiaridad con <b>Docker, Symfony, TypeScript, BootStrap</b> y otras tecnologías.
