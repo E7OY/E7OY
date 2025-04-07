@@ -4,7 +4,9 @@
 
 # 💫 Sobre mí:
 💻 Full-stack Developer<br>👨‍💻 Estudiante de DAW (Desarrollo de Aplicaciones Web) en Liceo La Paz<br>📍 De Galicia, España<br>📫 Ponte en contacto conmigo en: e.garciasiu@gmail.com<br>
-🎯 Skills: Habilidades en <b>Git</b> para control de versiones. Dominio de <b>React, HTML5, CSS3 y Tailwind</b> para frontend. Experiencia en <b>SQL, Spring, PHP y Java</b> para el desarrollo backend. Familiaridad con <b>Docker, Symfony, TypeScript, BootStrap</b> y otras tecnologías.
+🎯 Skills: Dominio sólido de <b>Java</b>, con amplia experiencia en desarrollo backend utilizando frameworks como <b>Spring</b>. Manejo avanzado de control de versiones con <b>Git</b>. Desarrollo frontend con <b>React</b>, <b>HTML5</b>, <b>CSS3</b> y <b>Tailwind</b>. Experiencia en bases de datos <b>SQL</b>, además de conocimientos en <b>PHP</b> y <b>Symfony</b>. Familiaridad con Docker, TypeScript, Bootstrap y otras tecnologías complementarias.
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&random=false&width=435&lines=Portfolio%3A+https%3A%2F%2Fe7oy.github.io)](https://e7oy.github.io)
 
