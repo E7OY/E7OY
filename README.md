@@ -22,6 +22,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-878DB8.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![SYMFONY](https://img.shields.io/badge/symfony-000000.svg?style=for-the-badge&logo=SYMFONY&logoColor=white) 
+![FIREBASE](https://img.shields.io/badge/firebase-FFCB31.svg?style=for-the-badge&logo=FIREBASE&logoColor=white) 
+
 <br/>
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
