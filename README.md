@@ -2,7 +2,7 @@
 
 
 💻 Full-stack Developer<br>👨‍💻 Estudiante de DAW (Desarrollo de Aplicaciones Web) en Liceo La Paz<br>📍 De Galicia, España<br>📫 Ponte en contacto conmigo en: e.garciasiu@gmail.com o a través de 
-![linkedin](https://www.linkedin.com/in/eloygarciamartinez/)  <br> 
+[linkedin](https://www.linkedin.com/in/eloygarciamartinez/)  <br> 
 🎯 Skills: Dominio sólido de <b>Java</b>, con amplia experiencia en desarrollo backend utilizando frameworks como <b>Spring</b>. Manejo avanzado de control de versiones con <b>Git</b>. Desarrollo frontend con <b>React</b>, <b>HTML5</b>, <b>CSS3</b> y <b>Tailwind</b>. Experiencia en bases de datos <b>SQL</b>, además de conocimientos en <b>PHP</b> y <b>Symfony</b>. Familiaridad con Docker, TypeScript, Bootstrap y otras tecnologías complementarias.
 
 
