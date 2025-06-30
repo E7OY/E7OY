@@ -8,10 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&random=false&width=435&lines=Portfolio%3A+https%3A%2F%2Fe7oy.github.io)](https://e7oy.github.io)
 
-
-# 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-58C5E2.svg?style=for-the-badge&logo=react&logoColor=fff) ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=fff)<br/>
-
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%77bc1f.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -52,15 +49,5 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=E7OY&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=E7OY&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=E7OY&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=E7OY&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 
 ![mario-working](https://github.com/user-attachments/assets/4afc1582-db97-42b7-b4e7-2545915dba3f)
