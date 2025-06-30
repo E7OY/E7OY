@@ -1,4 +1,5 @@
-![Slide 16_9 - 1](https://github.com/user-attachments/assets/5b5c9528-d1cb-4077-931d-47f6ab9b2994)
+![Slide 16_9 - 1](https://github.com/user-attachments/assets/d42354b5-1e9e-40c7-b685-50633e4eb0b8)
+
 
 # Hola 👋, Soy Eloy García
 
