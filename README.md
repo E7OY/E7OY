@@ -1,12 +1,13 @@
-![Slide 16_9 - 1](https://github.com/user-attachments/assets/06990b7a-bb76-4e08-bc4f-f95a4461602b)
 
+Soy desarrollador web full-stack con formación en Desarrollo de Aplicaciones Web (DAW).
+Tengo experiencia en el desarrollo de aplicaciones con C#, Java, React, Spring y SQL, además de trabajar con CMS como WordPress, PrestaShop, Joomla! y Moodle.
+Actualmente estoy aprendiendo Python y me preparo para iniciar un Máster en Inteligencia Artificial & Big Data, con el objetivo de especializarme en el ámbito de los datos y la inteligencia artificial.
 
-💻 Full-stack Developer<br>👨‍💻 Estudiante de DAW (Desarrollo de Aplicaciones Web) en Liceo La Paz<br>📍 De Galicia, España<br>📫 Ponte en contacto conmigo en: e.garciasiu@gmail.com o a través de 
-[linkedin](https://www.linkedin.com/in/eloygarciamartinez/)  <br> 
-🎯 Skills: Dominio sólido de <b>Java</b>, con amplia experiencia en desarrollo backend utilizando frameworks como <b>Spring</b>. Manejo avanzado de control de versiones con <b>Git</b>. Desarrollo frontend con <b>React</b>, <b>HTML5</b>, <b>CSS3</b> y <b>Tailwind</b>. Experiencia en bases de datos <b>SQL</b>, además de conocimientos en <b>PHP</b> y <b>Symfony</b>. Familiaridad con Docker, TypeScript, Bootstrap y otras tecnologías complementarias.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E7OY&layout=compact&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=E7OY&theme=tokyonight)
 
+![PORTFOLIO](https://e7oy.github.io)![LINKEDIN](https://www.linkedin.com/in/eloygarciamartinez/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&random=false&width=435&lines=Portfolio%3A+https%3A%2F%2Fe7oy.github.io)](https://e7oy.github.io)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-58C5E2.svg?style=for-the-badge&logo=react&logoColor=fff) ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=fff)<br/>
 
@@ -49,5 +50,5 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+````
 ![mario-working](https://github.com/user-attachments/assets/4afc1582-db97-42b7-b4e7-2545915dba3f)
