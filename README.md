@@ -1,13 +1,12 @@
 
-Soy desarrollador web full-stack con formación en Desarrollo de Aplicaciones Web (DAW).
-Tengo experiencia en el desarrollo de aplicaciones con C#, Java, React, Spring y SQL, además de trabajar con CMS como WordPress, PrestaShop, Joomla! y Moodle.
+Soy desarrollador web full-stack con formación en Desarrollo de Aplicaciones Web (DAW) y experiencia en el desarrollo de aplicaciones con tecnologías como C#, Java, React, Spring y SQL, aplicando metodologías ágiles como SCRUM.
 Actualmente estoy aprendiendo Python y me preparo para iniciar un Máster en Inteligencia Artificial & Big Data, con el objetivo de especializarme en el ámbito de los datos y la inteligencia artificial.
-
 
 [LinkedIn](https://www.linkedin.com/in/eloygarciamartinez/) | [Gmail](mailto:soyeloygarciamartinez@gmail.com) | [Web](https://e7oy.github.io/)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-58C5E2.svg?style=for-the-badge&logo=react&logoColor=fff) ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=fff)<br/>
 
+![Python](https://https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%77bc1f.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![C#](https://camo.githubusercontent.com/55856fb5524fa3c16627af16241febfabe81e16f1600169a891d599757671750/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)
@@ -46,6 +45,3 @@ Actualmente estoy aprendiendo Python y me preparo para iniciar un Máster en Int
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-````
-![mario-working](https://github.com/user-attachments/assets/4afc1582-db97-42b7-b4e7-2545915dba3f)
