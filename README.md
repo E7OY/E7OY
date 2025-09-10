@@ -1,3 +1,5 @@
+## **Eloy Garcia**
+
 Soy desarrollador web full-stack con formación en Desarrollo de Aplicaciones Web (DAW) y experiencia en el desarrollo de aplicaciones con tecnologías como C#, Java, React, Spring y SQL, aplicando metodologías ágiles como SCRUM.
 Actualmente estoy aprendiendo Python y me preparo para iniciar un Máster en Inteligencia Artificial & Big Data, con el objetivo de especializarme en el ámbito de los datos y la inteligencia artificial.
 
