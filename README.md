@@ -4,7 +4,7 @@ Tengo experiencia en el desarrollo de aplicaciones con C#, Java, React, Spring y
 Actualmente estoy aprendiendo Python y me preparo para iniciar un Máster en Inteligencia Artificial & Big Data, con el objetivo de especializarme en el ámbito de los datos y la inteligencia artificial.
 
 
-[LinkedIn](https://www.linkedin.com/in/eloygarciamartinez/) | [Gmail](mailto:soyeloygarciamartinez@gmail.com) | [Web](https://www.alejandrobrea.com/)
+[LinkedIn](https://www.linkedin.com/in/eloygarciamartinez/) | [Gmail](mailto:soyeloygarciamartinez@gmail.com) | [Web](https://e7oy.github.io/)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-58C5E2.svg?style=for-the-badge&logo=react&logoColor=fff) ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=fff)<br/>
 
